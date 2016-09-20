@@ -1,8 +1,8 @@
-Name:
+Name: Saurabh Priyadarshi
 
-Compilation and Run Successful:
+Compilation and Run Successful: Yes(Process finished with exit code 0)
 
-Unit Test Run Successfully:
+Unit Test Run Successfully:Yes(Process finished with exit code 0)
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
